@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Logan Tan
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -10,19 +10,18 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  不要盜用我的文章再自己添加浮水印。
 page_title:
-  "🪴 Quartz 3.3"
+  "羅根的寫字臺"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: 哀居
+    link: https://www.instagram.com/logan._.0607/?hl=zh-tw
+  - link_name: 祖克勃是蜥蜴人
+    link: https://www.facebook.com/loganhongyi/
