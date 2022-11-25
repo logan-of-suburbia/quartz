@@ -1,9 +1,17 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display&display=swap');
+
 :root {
-  --font-body: "Source Sans Pro";
-  --font-header: "Inter";
+  --font-body: "Noto Serif Display", "Noto Serif TC";
+  --font-header: "Noto Serif Display", "Noto Serif TC";
   --font-mono: "Fira Code"
+
+input[lang=zh] {
+ font-family: "Noto Serif TC"；
+ font-size: 14px
+}
 }
 
 // typography
