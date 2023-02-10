@@ -9,6 +9,4 @@ enableToc: false
 
 這是[隨筆](https://logan-of-suburbia.github.io/quartz/tags/%E9%9A%A8%E7%AD%86/)，隨心情寫的廢文。
 
-![如果看不到照片，説明網站爛掉了。](https://imgur.com/gallery/Fim9jN5)
-【限時】我的假期規劃，非常他媽史詩。
 
